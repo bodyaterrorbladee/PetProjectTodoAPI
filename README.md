@@ -1,6 +1,6 @@
 #  Todo API на Go + PostgreSQL + Gin
 
-Полноценное API для задач (ToDo), написанное на Go. Проект реализует CRUD-операции, подключается к PostgreSQL.
+Полноценное REST API для задач (ToDo), написанное на Go. Проект реализует CRUD-операции, подключается к PostgreSQL.
 
 ---
 
@@ -28,7 +28,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/твоя-ссылка.git
+git clone https://github.com/bodyaterrorbladee/PetProjectTodoAPI
 cd todoAPI
 go mod tidy
 ```
